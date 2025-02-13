@@ -6,13 +6,13 @@ This personal project aimed to detect Parkinson's disease using ML techniques. A
 Please feel free to use this model with your own datasets!! I plan to deploy a user-friendly web-application soon. 
 
 Tech Stack:
-Programming Language: Python
-IDE: VS Code
-Libraries Used:
-Data Handling and Processing: Pandas & Numpy
-Visualization: Matplotlib & Seaborn
-Machine Learning Models : scikit-learn
-Model Saved using: joblib
+<br/>Programming Language: Python
+<br/>IDE: VS Code
+<br/>Libraries Used:
+<br/>Data Handling and Processing: Pandas & Numpy
+<br/>Visualization: Matplotlib & Seaborn
+<br/>Machine Learning Models : scikit-learn
+<br/>Model Saved using: joblib
 
 DataSet Source: UCI Machine Learning Repository
 
